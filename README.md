@@ -1,3 +1,4 @@
+[![MasterHead](https://te.legra.ph/file/1afa3c02861547d86f60d.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pasha</h1>
 <h3 align="center">Gamer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
