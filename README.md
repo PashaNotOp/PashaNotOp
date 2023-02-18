@@ -1,4 +1,4 @@
-[![MasterHead](https://te.legra.ph/file/1afa3c02861547d86f60d.jpg)](https://rishavchanda.io)
+[![MasterHead](https://te.legra.ph/file/1afa3c02861547d86f60d.jpg)]
 <h1 align="center">Hi 👋, I'm Pasha</h1>
 <h3 align="center">Gamer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -16,6 +16,7 @@
 - 📫 How to reach me networkxpasha@gmail.com
 
 - ⚡ Fun fact I am not funny 🙂
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Anonymous Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
