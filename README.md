@@ -1,4 +1,4 @@
-![MasterHead](https://te.legra.ph/file/3d9129b4fbd06f293948b.png)
+![MasterHead](https://te.legra.ph/file/ad0b0ab6c1a51a42f2ecf.jpg)
 <h1 align="center">Hi 👋, I'm Pᴀsʜᴀ</h1>
 <h3 align="center">Gamer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://68.media.tumblr.com/8df7bd6fed56203b5b6fdc7998c9471b/tumblr_oakqgsV16W1vsjcxvo1_500.gif">
@@ -16,6 +16,11 @@
 - 📫 How to reach me networkxpasha@gmail.com
 
 - ⚡ Fun fact I am not funny 🙂
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Pasha Spotify" width="75%" />](https://open.spotify.com/user/31cvivifzz4v6bxrc6dgnkrojjaa?si=fNd_dgVUSwSp2VXEVNdYHQ)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
