@@ -1,4 +1,4 @@
-![MasterHead](https://te.legra.ph/file/5bc3776b05cb75355c72a.mp4)
+[![MasterHead]()https://te.legra.ph/file/0dbb7153ed5413b613e32.png)]
 <h1 align="center">Hi 👋, I'm Pasha</h1>
 <h3 align="center">Gamer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://68.media.tumblr.com/8df7bd6fed56203b5b6fdc7998c9471b/tumblr_oakqgsV16W1vsjcxvo1_500.gif">
