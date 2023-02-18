@@ -16,6 +16,7 @@
 - 📫 How to reach me networkxpasha@gmail.com
 
 - ⚡ Fun fact I am not funny 🙂
+
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Anonymous Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
 <h3 align="left">Connect with me:</h3>
