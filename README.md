@@ -1,5 +1,5 @@
 ![MasterHead](https://te.legra.ph/file/3d9129b4fbd06f293948b.png)
-<h1 align="center">Hi 👋, I'm Pasha</h1>
+<h1 align="center">Hi 👋, I'm Pᴀsʜᴀ</h1>
 <h3 align="center">Gamer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://68.media.tumblr.com/8df7bd6fed56203b5b6fdc7998c9471b/tumblr_oakqgsV16W1vsjcxvo1_500.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pashanotop" alt="pashanotop" /></a> </p>
 
-- 🔭 I’m currently working on Hosting Telegram Bots
+- 🔭 I’m currently working on Telegram Bots
 
 - 🌱 I’m currently learning HTML
 
